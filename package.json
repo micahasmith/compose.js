@@ -1,0 +1,12 @@
+{
+  "author": "micah smith <micah.a.smith@gmail.com> (http://www.allampersandall.com/)",
+  "name": "compose",
+  "description": "application building blocks",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
